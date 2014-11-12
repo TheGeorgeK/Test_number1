@@ -4,8 +4,8 @@ Test_number1
 
 ###Testtest
 
-*one
-*two
-*three
+* one
+* two
+* three
 
 This is a test repo.
